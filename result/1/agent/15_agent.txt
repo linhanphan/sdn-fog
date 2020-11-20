@@ -1,0 +1,6 @@
+rm: cannot remove 'result/1/node/*': No such file or directory
+Simalation  1
+I am normal  node  15
+Start api server
+I am offloading  node  15
+Start test case 1 for NoSDN

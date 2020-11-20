@@ -1,0 +1,3 @@
+64 bytes from 10.0.0.10: icmp_seq=1 ttl=64 time=4.15 ms
+64 bytes from 10.0.0.10: icmp_seq=2 ttl=64 time=4.02 ms
+64 bytes from 10.0.0.10: icmp_seq=3 ttl=64 time=4.03 ms

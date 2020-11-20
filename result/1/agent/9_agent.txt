@@ -1,0 +1,230 @@
+rm: cannot remove 'result/1/node/*': No such file or directory
+50+0 records in
+50+0 records out
+52428800 bytes (52 MB, 50 MiB) copied, 17.3627 s, 3.0 MB/s
+17.36
+50+0 records in
+50+0 records out
+52428800 bytes (52 MB, 50 MiB) copied, 17.3846 s, 3.0 MB/s
+17.38
+Simalation  1
+I am overloading node  9
+Running mode:  SDN
+84.8 3
+84.7 3
+84.7 3
+84.7 3
+84.8 3
+84.9 3
+84.8 3
+84.7 3
+0.041 3
+12.2 3
+36.3 3
+36.3 3
+60.5 3
+60.5 3
+60.6 3
+60.6 3
+[62, 68, 37, 33, 34, 36, 30, 40, 25, 41, 26, 37, 32, 70, 31, 50]
+w =  0.345
+w =  0.24625
+w =  0.45375
+w =  0.414375
+w =  0.33875
+w =  0.46125
+w =  0.35
+w =  0.345
+w =  0.553125
+w =  0.273125
+w =  0.3825
+w =  0.55875
+w =  0.555625
+w =  0.160625
+w =  0.645625
+w =  0.331875
+{1: 0.345, 2: 0.24625000000000002, 3: 0.45375, 4: 0.414375, 5: 0.33875, 6: 0.46125000000000005, 7: 0.35, 8: 0.345, 9: 0.553125, 10: 0.273125, 11: 0.3825, 12: 0.5587500000000001, 13: 0.555625, 14: 0.16062500000000002, 15: 0.645625, 16: 0.331875}
+9
+{1: 0.345, 2: 0.24625000000000002, 3: 0.45375, 4: 0.414375, 5: 0.33875, 6: 0.46125000000000005, 7: 0.35, 8: 0.345, 10: 0.273125, 11: 0.3825, 12: 0.5587500000000001, 13: 0.555625, 14: 0.16062500000000002, 15: 0.645625, 16: 0.331875}
+Best Node: id  15 
+value: 0.645625
+9.98973846436e-05
+[28.26666666666667, 28.233333333333334, 28.233333333333334, 28.233333333333334, 28.266666666666666, 28.3, 28.266666666666666, 28.233333333333334, 0.013666666666666667, 4.066666666666666, 12.1, 12.1, 20.166666666666668, 20.166666666666668, 20.2, 20.2]
+28.3
+delivery time 28.3998973846
+bestNode 15
+Test latency to all host
+Test latency to host 1
+request # 1   61.9049072266
+request # 2   59.6628189087
+request # 3   58.9289665222
+request # 4   58.7770938873
+request # 5   59.2830181122
+Test latency to host 2
+request # 1   61.5680217743
+request # 2   59.4539642334
+request # 3   58.6850643158
+request # 4   59.2429637909
+request # 5   58.7840080261
+Test latency to host 3
+request # 1   61.4199638367
+request # 2   59.1850280762
+request # 3   59.2429637909
+request # 4   59.3340396881
+request # 5   58.6669445038
+Test latency to host 4
+request # 1   61.0508918762
+request # 2   59.5149993896
+request # 3   59.3330860138
+request # 4   58.9270591736
+request # 5   59.1402053833
+Test latency to host 5
+request # 1   61.0361099243
+request # 2   58.4449768066
+request # 3   58.8321685791
+request # 4   58.8669776917
+request # 5   59.760093689
+Test latency to host 6
+request # 1   61.3360404968
+request # 2   59.0300559998
+request # 3   58.6969852448
+request # 4   59.464931488
+request # 5   58.9339733124
+Test latency to host 7
+request # 1   60.8158111572
+request # 2   59.5300197601
+request # 3   59.3049526215
+request # 4   58.9101314545
+request # 5   59.0260028839
+Test latency to host 8
+request # 1   60.2431297302
+request # 2   58.8140487671
+request # 3   58.9139461517
+request # 4   58.5808753967
+request # 5   59.3059062958
+Test latency to host 10
+request # 1   12.0010375977
+request # 2   10.6611251831
+request # 3   11.7971897125
+request # 4   11.5439891815
+request # 5   10.6639862061
+Test latency to host 11
+request # 1   28.361082077
+request # 2   26.9780158997
+request # 3   27.1430015564
+request # 4   27.1232128143
+request # 5   26.8559455872
+Test latency to host 12
+request # 1   28.9452075958
+request # 2   26.6401767731
+request # 3   26.839017868
+request # 4   27.7750492096
+request # 5   26.6981124878
+Test latency to host 13
+request # 1   45.6168651581
+request # 2   43.5841083527
+request # 3   43.053150177
+request # 4   42.8440570831
+request # 5   43.1520938873
+Test latency to host 14
+request # 1   44.5520877838
+request # 2   43.2322025299
+request # 3   43.7760353088
+request # 4   42.5720214844
+request # 5   42.9821014404
+Test latency to host 15
+request # 1   44.8729991913
+request # 2   42.7770614624
+request # 3   42.4339771271
+request # 4   43.1590080261
+request # 5   42.9558753967
+Test latency to host 16
+request # 1   44.2869663239
+request # 2   42.6259040833
+request # 3   42.8898334503
+request # 4   42.9029464722
+request # 5   42.6421165466
+finish latency test
+['15']
+offloading_node node  15
+start test 1-data transfering
+/usr/bin/time -f '%e' dd if=/dev/zero bs=1M count=50 | nc -q 0 10.0.0.15 30000
+transfering 50 MB #1
+transfer_time  18.0649979115
+transfering 50 MB #2
+transfer_time  18.074693203
+aver transfering time (no sdn) of 50  MB : 18.0698455572
+/usr/bin/time -f '%e' dd if=/dev/zer100+0 records in
+100+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 35.8694 s, 2.9 MB/s
+35.87
+100+0 records in
+100+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 35.8707 s, 2.9 MB/s
+35.87
+200+0 records in
+200+0 records out
+209715200 bytes (210 MB, 200 MiB) copied, 72.9444 s, 2.9 MB/s
+72.94
+200+0 records in
+200+0 records out
+209715200 bytes (210 MB, 200 MiB) copied, 72.8284 s, 2.9 MB/s
+72.82
+50+0 records in
+50+0 records out
+52428800 bytes (52 MB, 50 MiB) copied, 9.37823 s, 5.6 MB/s
+9.37
+50+0 records in
+50+0 records out
+52428800 bytes (52 MB, 50 MiB) copied, 9.34725 s, 5.6 MB/s
+9.34
+100+0 records in
+100+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 19.7055 s, 5.3 MB/s
+19.70
+100+0 records in
+100+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 19.6793 s, 5.3 MB/s
+19.67
+200+0 records in
+200+0 records out
+209715200 bytes (210 MB, 200 MiB) copied, 40.3707 s, 5.2 MB/s
+40.37
+dd: error writing 'standard output': Broken pipe
+87+0 records in
+86+0 records out
+90734592 bytes (91 MB, 87 MiB) copied, 1002.01 s, 90.6 kB/s
+Command exited with non-zero status 1
+1002.01
+o bs=1M count=100 | nc -q 0 10.0.0.15 30000
+transfering 100 MB #1
+transfer_time  36.59471488
+transfering 100 MB #2
+transfer_time  36.5964200497
+aver transfering time (no sdn) of 100  MB : 36.5955674648
+/usr/bin/time -f '%e' dd if=/dev/zero bs=1M count=200 | nc -q 0 10.0.0.15 30000
+transfering 200 MB #1
+transfer_time  73.6064450741
+transfering 200 MB #2
+transfer_time  73.5309510231
+aver transfering time (no sdn) of 200  MB : 73.5686980486
+finish no sdn test
+start test 1-data transfering
+/usr/bin/time -f '%e' dd if=/dev/zero bs=1M count=50 | nc -q 0 10.0.0.13 30000
+transfering 50 MB #1
+transfer_time  10.2485160828
+transfering 50 MB #2
+transfer_time  10.1973099709
+aver transfering time (no sdn) of 50  MB : 10.2229130268
+/usr/bin/time -f '%e' dd if=/dev/zero bs=1M count=100 | nc -q 0 10.0.0.13 30000
+transfering 100 MB #1
+transfer_time  20.5846538544
+transfering 100 MB #2
+transfer_time  20.5353131294
+aver transfering time (no sdn) of 100  MB : 20.5599834919
+/usr/bin/time -f '%e' dd if=/dev/zero bs=1M count=200 | nc -q 0 10.0.0.13 30000
+transfering 200 MB #1
+transfer_time  41.2341089249
+transfering 200 MB #2
+transfer_time  1002.01190615
+aver transfering time (no sdn) of 200  MB : 521.623007536
